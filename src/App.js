@@ -1,3 +1,6 @@
+// yarn add react-i18next i18next i18next-http-backend
+// OR
+// npm install react-i18next i18next i18next-http-backend --save
 import logo from './logo.svg';
 import './App.css';
 import { useTranslation } from 'react-i18next';
